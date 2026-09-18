@@ -2,8 +2,7 @@
 #include <string.h>
 
 int main() {
-printf("Bonjour Tout le Monde !");
+printf("Bonjours Tout le Monde !");
 }
-
 
 
